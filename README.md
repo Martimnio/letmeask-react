@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" title="Letmeask" src=".github/worflows/letmeaskcover.svg" />
+    <img alt="Letmeask" title="Letmeask" src=".github/workflows/letmeaskcover.svg" />
 </h1>
 
 <br>
