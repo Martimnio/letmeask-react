@@ -1,11 +1,5 @@
 <p align="center">
-  <img alt="Letmeask" src=".github/logo.svg" width="160px">
-</p>
 
-<p align="center">
-  <img  src="" alt="License">
-  
-</p>
 
 <h1 align="center">
     <img alt="Letmeask" title="Letmeask" src=".github/workflows/letmeaskcover.svg" />
