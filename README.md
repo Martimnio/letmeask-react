@@ -23,7 +23,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/SampaioLeal/nlw-letmeask.git
+$ git clone https://github.com/Martimnio/letmeask-react.git
 $ cd nlw-letmeask
 ```
 
